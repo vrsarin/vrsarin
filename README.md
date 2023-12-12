@@ -1,4 +1,4 @@
-# Vivek Sarin: Accomplished Senior Architect - Technology (Full Stack)
+# Vivek Sarin: Senior Architect - Technology (Full Stack)
 
 With over 25 years of experience in the field of software architecture, design, and development. He is well-versed in operational excellence, both independently and as a valuable team member, fostering goal attainment for the organizations he serves. With an acutely detail-oriented approach complemented by robust communication, interpersonal, and creative problem-solving skills, Vivek's domain expertise spans across telecom, banking, insurance, healthcare, retail, multimedia, and hospitality sectors. His core competencies include system design, technical leadership, requirement management, cloud migrations, client relations, team mentoring, and scrum management. Technologically adept, he is proficient in a wide array of tools and technologies including C#, Java, JavaScript, Python, microservices, serverless frameworks, service meshes, DevSecOps, IoT and Artificial Intelligence.
 
